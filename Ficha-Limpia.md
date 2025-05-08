@@ -9,18 +9,26 @@ El **Senado rechazó** por apenas un voto la sanción definitiva de la **ley de 
 - 36 afirmativos
 - 37 negativos 
 
+![votos](/assets/votos.webp)
+
 # La sorpresa
 
 El resultado fue sorpresivo hasta el último momento. Si bien el rechazo del bloque kirchnerista era previsible, el inesperado alineamiento de los senadores misioneros **Carlos Arce y Sonia Rojas Decut** —ambos del **Frente Renovador de la Concordia**, no vinculados a **Sergio Massa**— terminó por sepultar la norma que amenazaba, entre otros, con impedir una eventual candidatura nacional de **Cristina Fernández de Kirchner**, condenada en segunda instancia por **corrupción.**
 Dos personas sentadas en sillas de madera en un entorno formal con documentos y dispositivos electrónicos sobre la mesa."
 
+![seandores arriba](/assets/senado_arriba.webp)
+
 # Explicacion
 
 **La ley Ficha Limpia** buscaba modificar las condiciones de elegibilidad para cargos electivos y ejecutivos, estableciendo la **inelegibilidad de quienes hubieran sido condenados en segunda instancia por delitos como fraude al Estado** (art. 174, inc. 5), cohecho, malversación, enriquecimiento ilícito y otros ilícitos penales tipificados en el Título XI del Código Penal. La norma también contemplaba casos de enriquecimiento ilícito conforme al artículo 36 de la **Constitución Nacional.**
 
+![senadores](/assets/senadores.webp)
+
 # La pelea
 
 El gobierno libertario, a través de su bloque en el Senado, respaldó con firmeza el proyecto. **“Es necesario para la salud de la democracia”**, afirmó el sanjuanino **Bruno Olivera Lucero** (LLA), quien denunció **“maniobras para frenarla”** y describió la batalla legislativa como **“una lucha cuesta arriba”.**
+
+![villa](/assets/villaruel.webp)
 
 # Cerrando...
 
