@@ -29,10 +29,10 @@ Josh Hart led the Knicks with 23 points, while Karl-Anthony Towns added 21 point
 
 The game was met with mixed reactions from both sides. Knicks fans were ecstatic with their team's resilience and grit, especially considering the challenging circumstances. Analysts praised the Knicks for their composure in the face of a sizeable deficit, with many highlighting their improved defense in the second half as the key to their comeback.
 
-![Knicks Fan](\Assets\knickfan.gif "Knicks Fan")
+![Knicks Fan](\Assets\knicksfan.gif "Knicks Fan")
 
 On the other hand, Celtics fans were left frustrated and disheartened. After losing Game 1 in similar dramatic fashion, they hoped for a better result in Game 2 but were left stunned by the Knicks' late-game surge. The Celtics’ inability to close out the game, despite leading by double digits for much of the contest, has raised questions about their consistency and execution under pressure.
 
-![Tatum](\Assets\tatum.jpg "Tatum")
+![Tatum](\Assets\Tatum.jpg "Tatum")
 
 The series now shifts to Madison Square Garden in New York for Game 3, where the Knicks will look to extend their series lead. With the Celtics needing to bounce back quickly, the pressure will be on them to regroup and avoid falling into a 3–0 hole. The Knicks’ fans are buzzing with excitement, as their team appears to be in prime position to take control of the series.
