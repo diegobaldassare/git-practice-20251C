@@ -14,7 +14,6 @@ Pakistán respondió afirmando haber derribado cinco aviones de combate indios y
 - **Resultados según India**: Más de 100 militantes eliminados
 ![alt text](download.png)
 
-
 ## ⚔️ Respuesta de Pakistán
 - **Derribo de aeronaves**: 5 aviones de combate indios y varios drones
 - **Ataques con drones y misiles**: Dirigidos a ciudades indias, interceptados por sistemas de defensa
