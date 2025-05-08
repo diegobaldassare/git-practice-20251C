@@ -5,6 +5,7 @@ El 7 de mayo de 2025, India lanzó la "Operación Sindoor", una serie de ataques
 Estos ataques fueron en represalia por un atentado ocurrido el 22 de abril en Pahalgam, que dejó 28 civiles muertos, en su mayoría turistas hindúes.
 
 Pakistán respondió afirmando haber derribado cinco aviones de combate indios y varios drones. Además, lanzó ataques con drones y misiles contra ciudades indias como Amritsar, los cuales fueron interceptados por el sistema de defensa aérea S-400 de India.
+![alt text](download-1-1.png)
 
 ## 🛡️ Detalles de la "Operación Sindoor"
 - **Fecha**: 7 de mayo de 2025
@@ -12,12 +13,14 @@ Pakistán respondió afirmando haber derribado cinco aviones de combate indios y
 - **Objetivos**: Campamentos de grupos como Jaish-e-Mohammed y Lashkar-e-Taiba
 - **Ubicaciones atacadas**: Bahawalpur, Muridke, Muzaffarabad, Kotli, entre otras
 - **Resultados según India**: Más de 100 militantes eliminados
-![alt text](download-1-1.png)
+
 ## ⚔️ Respuesta de Pakistán
 - **Derribo de aeronaves**: 5 aviones de combate indios y varios drones
 - **Ataques con drones y misiles**: Dirigidos a ciudades indias, interceptados por sistemas de defensa
 - **Declaraciones oficiales**: El Ministro de Defensa, Khawaja Asif, advirtió sobre la posibilidad de una guerra nuclear
+
 ![alt text](download.png)
+
 ## 🌍 Reacciones Internacionales
 - **ONU**: Llamado urgente a la desescalada del conflicto
 - **EE.UU. y Reino Unido**: Instan a la moderación y ofrecen mediar en las negociaciones
