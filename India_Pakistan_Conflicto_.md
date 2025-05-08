@@ -1,5 +1,5 @@
 # 🇮🇳🇵🇰 Escalada Bélica entre India y Pakistán: ¿Al Borde de una Guerra Nuclear?
-
+![alt text](soldados.webp)
 El 7 de mayo de 2025, India lanzó la "Operación Sindoor", una serie de ataques aéreos con misiles dirigidos a supuestos campamentos terroristas en Pakistán y en la región de Cachemira administrada por Pakistán.
 
 Estos ataques fueron en represalia por un atentado ocurrido el 22 de abril en Pahalgam, que dejó 28 civiles muertos, en su mayoría turistas hindúes.
@@ -12,20 +12,19 @@ Pakistán respondió afirmando haber derribado cinco aviones de combate indios y
 - **Objetivos**: Campamentos de grupos como Jaish-e-Mohammed y Lashkar-e-Taiba
 - **Ubicaciones atacadas**: Bahawalpur, Muridke, Muzaffarabad, Kotli, entre otras
 - **Resultados según India**: Más de 100 militantes eliminados
-
+![alt text](download.png)
 
 
 ## ⚔️ Respuesta de Pakistán
 - **Derribo de aeronaves**: 5 aviones de combate indios y varios drones
 - **Ataques con drones y misiles**: Dirigidos a ciudades indias, interceptados por sistemas de defensa
 - **Declaraciones oficiales**: El Ministro de Defensa, Khawaja Asif, advirtió sobre la posibilidad de una guerra nuclear
-
-
+![alt text](download-1-1.png)
 ## 🌍 Reacciones Internacionales
 - **ONU**: Llamado urgente a la desescalada del conflicto
 - **EE.UU. y Reino Unido**: Instan a la moderación y ofrecen mediar en las negociaciones
 - **Protestas globales**: Manifestaciones en ciudades como Londres y Nueva York en contra de una posible guerra
-
+![alt text](download-2.png)
 
 
 ## 🔗 Enlaces de Interés
