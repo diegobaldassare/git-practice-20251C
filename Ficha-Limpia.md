@@ -109,8 +109,12 @@ En Contra:
 
 Fuentes:
 
- 	[La Nacion](https://www.lanacion.com.ar/politica/el-kirchnerismo-festejo-el-fracaso-de-la-ficha-limpia-mientras-cristina-sigue-pensando-en-una-nid07052025/)
-    [Infobae](https://www.infobae.com/politica/2025/05/07/ficha-limpia-en-vivo-las-ultimas-noticias-sobre-la-votacion-en-el-senado-minuto-a-minuto/)
-    [Derecha Diario](https://derechadiario.com.ar/politica/senado-rechazo-ficha-limpia-y-continua-impunidad-cristina-kirchner)
-    [C5N](https://www.c5n.com/politica/debate.senado-ficha-limpia-7-mayo-2025)
-    [TN](https://tn.com.ar/politica/2025/05/07/senado-el-oficialismo-y-los-bloques-aliados-consiguieron-quorum-y-arranca-la-sesion-por-ficha-limpia/)
+[La Nacion](https://www.lanacion.com.ar/politica/el-kirchnerismo-festejo-el-fracaso-de-la-ficha-limpia-mientras-cristina-sigue-pensando-en-una-nid07052025/)
+
+[Infobae](https://www.infobae.com/politica/2025/05/07/ficha-limpia-en-vivo-las-ultimas-noticias-sobre-la-votacion-en-el-senado-minuto-a-minuto/)
+
+[Derecha Diario](https://derechadiario.com.ar/politica/senado-rechazo-ficha-limpia-y-continua-impunidad-cristina-kirchner)
+
+[C5N](https://www.c5n.com/politica/debate.senado-ficha-limpia-7-mayo-2025)
+
+[TN](https://tn.com.ar/politica/2025/05/07/senado-el-oficialismo-y-los-bloques-aliados-consiguieron-quorum-y-arranca-la-sesion-por-ficha-limpia/)
