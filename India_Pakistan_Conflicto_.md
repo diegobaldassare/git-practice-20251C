@@ -12,13 +12,12 @@ Pakistán respondió afirmando haber derribado cinco aviones de combate indios y
 - **Objetivos**: Campamentos de grupos como Jaish-e-Mohammed y Lashkar-e-Taiba
 - **Ubicaciones atacadas**: Bahawalpur, Muridke, Muzaffarabad, Kotli, entre otras
 - **Resultados según India**: Más de 100 militantes eliminados
-![alt text](download.png)
-
+![alt text](download-1-1.png)
 ## ⚔️ Respuesta de Pakistán
 - **Derribo de aeronaves**: 5 aviones de combate indios y varios drones
 - **Ataques con drones y misiles**: Dirigidos a ciudades indias, interceptados por sistemas de defensa
 - **Declaraciones oficiales**: El Ministro de Defensa, Khawaja Asif, advirtió sobre la posibilidad de una guerra nuclear
-![alt text](download-1-1.png)
+![alt text](download.png)
 ## 🌍 Reacciones Internacionales
 - **ONU**: Llamado urgente a la desescalada del conflicto
 - **EE.UU. y Reino Unido**: Instan a la moderación y ofrecen mediar en las negociaciones
