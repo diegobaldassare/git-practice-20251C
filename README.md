@@ -6,6 +6,7 @@ Trabajo Práctico en Git del Taller
 2. GTAVI
 3. Ficha Limpia
 4. Colapinto F1
+5. India vs Pak(el de verdad)
 
 # Habemus Papam
 
