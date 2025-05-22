@@ -4,9 +4,18 @@ Trabajo Práctico en Git del Taller
 ## Índice
 1. Habemus Papam
 2. GTAVI
+3. River
 3. Ficha Limpia
 4. Colapinto F1
 5. India vs Pak(el de verdad)
+6. depositos minerales
+<<<<<<< HEAD
+7. jero correa es gay
+=======
+
+5.India pakistan 
+
+>>>>>>> 872b5a0f96cc32a568ec93d31396a57950264948
 
 
 # Habemus Papam
@@ -41,37 +50,64 @@ La ficción se entrelaza con la realidad en esta comedia dramática que explora 
 
 a: ¿y si el nuevo Papa no quisiera serlo?
 
+---
 
 # GTAVI
 
 ![alt text](500_333.jpg)
 
-## Analisis del 2do Trailer
+## Análisis del 2do Trailer
 
-En tan solo 7 horas, el trailer del Grand Theft Auto VI (GTA VI) tuvo 29 millones de reproducciones en YouTube. Un número que lo explica todo: el próximo videojuego de la compañía Rockstar es el que más expectativas genera en el mundo gamer.
+En tan solo 7 horas, el tráiler del Grand Theft Auto VI (GTA VI) alcanzó 29 millones de reproducciones en YouTube. Un número que lo dice todo: el próximo videojuego de Rockstar Games es uno de los más esperados en el mundo gamer.
 
-El adelanto ahora revela pormenores de la relación entre el dúo protagónico, que será una especie de Bonnie and Clyde modernos. Pero también un detalle que sorprendió refleja todo el poderío visual que tendrá la nueva entrega y que sorprendió a los fans.
+El adelanto revela detalles de la relación entre el dúo protagónico, una especie de Bonnie and Clyde modernos. Además, sorprende el nivel visual que tendrá esta nueva entrega.
 
+## Gráficos mejorados
 
-## Graficos mejorados
+El nuevo tráiler muestra los impresionantes gráficos del juego y detalla parte de la trama principal. Se observa lo realista que es el motor gráfico del nuevo GTA.
 
-El nuevo trailer muestra los impresionantes gráficos que tendrá al mismo tiempo que revela detalles sobre la trama principal. Podemos observar en el trailer que tan bueno es el motor grafico del nuevo Grand Theft Auto
-
-En una parte del adelanto, si uno observa detenidamente los objetos que hay sobre una mesa y acerca la pantalla verá con lujo de detalles las burbujitas de una botella de cerveza. Esto da cuenta de que Rockstar no dejará pasar nada por alto.
-
+Por ejemplo, en una escena se pueden ver burbujas dentro de una botella de cerveza sobre una mesa, lo que refleja el nivel de detalle que Rockstar está implementando.
 
 ## Nuevos personajes
 
-Los personajes nuevos que aparecen son:
-*Lucia Caminos: Rockstar señala que está “recién salida de prisión y lista para cambiar las tornas a su favor”, así como también “decidida a cumplir su plan cueste lo que cueste"
+Los nuevos personajes confirmados por Rockstar son:
 
-    *Jason Duval: Rockstar señala  que "quiere una vida fácil, pero las cosas no hacen más que complicarse". "Conocer a Lucia podría ser lo mejor o lo peor que le haya pasado. Jason tiene claro cómo le gustaría que acabara la historia, pero ahora mismo es difícil saberlo".
+- **Lucía Caminos**: “Recién salida de prisión y lista para cambiar las tornas a su favor. Está decidida a cumplir su plan cueste lo que cueste.”
+  
+- **Jason Duval**: “Quiere una vida fácil, pero todo se complica. Conocer a Lucía podría ser lo mejor o lo peor que le haya pasado.”
 
 ![alt text](download.jpg)
+## Nuevas mecánicas
 
----
+<<<<<<< HEAD
+# River
+El Club Atlético River Plate fue fundado el **25** de mayo de **1901** en Buenos Aires, Argentina. A lo largo de su historia, se convirtió en uno de los clubes más exitosos del país y del continente.
+
+Desde sus inicios en el barrio de La Boca hasta su traslado a Núñez, River ha construido una identidad marcada por el fútbol ofensivo, la cantera de grandes jugadores y una rivalidad histórica con Boca Juniors.
+=======
+### Nueva IA en los NPCs
+
+- La inteligencia artificial será mucho más avanzada.
+- Los NPCs reaccionarán de forma realista al entorno y entre sí.
+- Se espera una simulación social más compleja: ciudadanos con celulares, rutinas diarias, etc.
+
+### Nuevo mapa
+
+El mapa estará ambientado en Vice City (una versión de Miami), con zonas rurales, pantanos, y un ecosistema vivo y cambiante.
+
+![alt text](gta_vi_map_4k_by_pavlo445_dgjqh91-fullview.jpg)
+
+## Enlaces útiles
+
+- [Tráiler oficial en YouTube](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+- [Sitio oficial de Rockstar Games](https://www.rockstargames.com)
+- [Noticias sobre GTA VI en IGN](https://www.ign.com/games/grand-theft-auto-vi)
+- [Foro de discusión en Reddit](https://www.reddit.com/r/GTA6/)
+- [Resumen en Wikipedia](https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI)
 
 ![Una sesión en el Senado de Argentina con senadores sentados en sus escaños y trabajando en computadoras portátiles en un recinto con decoración clásica y banderas argentinas.](https://derechadiario.com.ar/filesedc/uploads/image/post/635251w850h478cjpg_1200_800.webp)
+
+---
   
 # El Senado rechazó la Ficha Limpia: continúa la impunidad de Cristina Kirchner
 
@@ -322,7 +358,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Historia de la partición](https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India)
 - [Conflictos entre India y Pakistán](https://es.wikipedia.org/wiki/Conflictos_entre_India_y_Pakist%C3%A1n)
 
-![Mapa de India y Pakistán](imagenes\capsule_616x353.jpg)
+![Mapa de India y Pakistán](capsule_616x353.jpg)
 
 ---
 
@@ -333,7 +369,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Primera Guerra de Cachemira](https://es.wikipedia.org/wiki/Primera_guerra_de_Cachemira)
 - [Guerra de Kargil](https://es.wikipedia.org/wiki/Guerra_de_Kargil)
 
-![Soldados en Cachemira](https://upload.wikimedia.org/wikipedia/commons/6/6f/Kashmir_soldiers.jpg)
+![Soldados en Cachemira](capsule_616x353.jpg)
 
 ---
 
@@ -359,4 +395,150 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Resoluciones de la ONU](https://es.wikipedia.org/wiki/Resoluciones_de_la_ONU_sobre_Cachemira)
 - [Noticias recientes](https://www.bbc.com/mundo)
 
+<<<<<<< HEAD
 >>>>>>> 8322eb4d4d127b530b3410a0f4060b25cb69e491
+=======
+<<<<<<< HEAD
+
+# Hallaron uno de los mayores depósitos minerales del mundo entre Argentina y Chile
+# Recursos Minerales en Filo del Sol y Josemaría
+- 12,8 millones de toneladas de cobre medido
+- 25,1 millones de toneladas de cobre inferido
+- 32,2 millones de onzas de oro medido
+- 48,7 millones de onzas de oro inferido
+- 659 millones de onzas de plata medida
+- 808 millones de onzas de plata inferida
+# Empresas Involucradas en el Desarrollo
+1. Exploración de Filo del Sol
+2. Preconstrucción de Josemaría
+3. Evaluación de recursos
+4. Integración operativa de ambos yacimientos
+5. Optimización de infraestructura
+6. Expansión escalonada de producción
+# Ubicación estratégica
+## Ambos yacimientos están ubicados en la frontera entre Argentina (San Juan) y Chile (Atacama).
+[Impacto mundial: encuentran en Argentina las mayores reservas de cobre, oro y plata de los últimos 30 años](https://www.clarin.com/economia/impacto-mundial-encuentran-argentina-mayores-reservas-cobre-oro-plata-ultimos-30-anos_0_FciNS6NCAZ.html)
+[Hallaron uno de los mayores depósitos minerales del mundo entre Argentina y Chile](https://www.infobae.com/america/mundo/2025/05/05/hallaron-uno-de-los-mayores-depositos-minerales-del-mundo-entre-argentina-y-chile/)
+[Hallazgo sin precedentes: Argentina tiene uno de los mayores depósitos de cobre, oro y plata del mundo](https://www.canal26.com/planeta/hallazgo-sin-precedentes-argentina-tiene-uno-de-los-mayores-depositos-de-cobre-oro-y-plata-del-mundo--422210)
+[Lo que buscaban era cobre, pero hallaron oro: El descubrimiento que podría cambiar el destino minero de un país latinoamericano](https://es.gizmodo.com/lo-que-buscaban-era-cobre-pero-hallaron-oro-el-descubrimiento-que-podria-cambiar-el-destino-minero-de-un-pais-latinoamericano-2000164306)
+[Un nuevo hallazgo de cobre, oro y plata sitúa a Argentina como nueva potencia minera](https://www.elperiodico.com/es/internacional/20250506/argentina-encamina-convertirse-potencia-minera-oro-plata-cobre-chile-mina-117104380)
+![oro](https://www.cronista.com/files/image/986/986862/671a8882194d3.jpg)
+![oro](https://lu17.com/download/multimedia.normal.8e6ad9702cc58c5c.bm9ybWFsLndlYnA%3D.webp)
+![oro](https://media.ambito.com/p/c433d5965b62876960a48f79ea8e3385/adjuntos/239/imagenes/030/118/0030118038/1200x675/smart/stand-by-la-extraccion-oro-la-poderosa-mina-esta-paralizada-fines-marzo-.jpg)
+![oro](https://www.panorama-minero.com/_next/image?url=https%3A%2F%2Fstrapi-pm.s3.us-east-1.amazonaws.com%2Fimage_3_01_f7e9a33dea.jpg&w=1920&q=75)
+=======
+# 🇮🇳🇵🇰 Escalada Bélica entre India y Pakistán: ¿Al Borde de una Guerra Nuclear?
+
+El 7 de mayo de 2025, India lanzó la "Operación Sindoor", una serie de ataques aéreos con misiles dirigidos a supuestos campamentos terroristas en Pakistán y en la región de Cachemira administrada por Pakistán.
+
+Estos ataques fueron en represalia por un atentado ocurrido el 22 de abril en Pahalgam, que dejó 28 civiles muertos, en su mayoría turistas hindúes.
+
+Pakistán respondió afirmando haber derribado cinco aviones de combate indios y varios drones. Además, lanzó ataques con drones y misiles contra ciudades indias como Amritsar, los cuales fueron interceptados por el sistema de defensa aérea S-400 de India.
+
+## 🛡️ Detalles de la "Operación Sindoor"
+- **Fecha**: 7 de mayo de 2025
+- **Duración**: 23 minutos
+- **Objetivos**: Campamentos de grupos como Jaish-e-Mohammed y Lashkar-e-Taiba
+- **Ubicaciones atacadas**: Bahawalpur, Muridke, Muzaffarabad, Kotli, entre otras
+- **Resultados según India**: Más de 100 militantes eliminados
+
+
+
+## ⚔️ Respuesta de Pakistán
+- **Derribo de aeronaves**: 5 aviones de combate indios y varios drones
+- **Ataques con drones y misiles**: Dirigidos a ciudades indias, interceptados por sistemas de defensa
+- **Declaraciones oficiales**: El Ministro de Defensa, Khawaja Asif, advirtió sobre la posibilidad de una guerra nuclear
+
+
+## 🌍 Reacciones Internacionales
+- **ONU**: Llamado urgente a la desescalada del conflicto
+- **EE.UU. y Reino Unido**: Instan a la moderación y ofrecen mediar en las negociaciones
+- **Protestas globales**: Manifestaciones en ciudades como Londres y Nueva York en contra de una posible guerra
+
+
+
+## 🔗 Enlaces de Interés
+1. [CNN en Español: Conflicto India-Pakistán](https://cnnespanol.cnn.com/mundo/live-news/noticias-india-pakistan-conflicto-2-trax)
+2. [The Guardian: Escalada en Cachemira](https://www.theguardian.com/world/live/2025/may/08/india-pakistan-kashmir-latest-live-news)
+3. [Wikipedia: Ataques de India contra Pakistán de 2025](https://es.wikipedia.org/wiki/Ataques_de_India_contra_Pakist%C3%A1n_de_2025)
+4. [El País: Claves del conflicto India-Pakistán](https://elpais.com/internacional/2025-05-08/claves-la-india-y-pakistan-un-conflicto-de-raiz-colonial-con-epicentro-en-la-disputada-cachemira.html)
+5. [CNN Video: Antecedentes históricos del conflicto](https://cnnespanol.cnn.com/2025/05/07/mundo/video/antecedentes-historicos-conflicto-india-pakistan-cafe-tv)
+>>>>>>> cddddad927d638134daba539f9d563ba18c5d207
+<<<<<<< HEAD
+
+# Dolor en la corona española
+
+## Introducción
+
+Durante los últimos años del siglo XVIII y comienzos del XIX, la monarquía española enfrentó una crisis sin precedentes. Los conflictos internos, las influencias extranjeras y el creciente malestar popular pusieron en jaque la estabilidad de la corona. Esta sección explora las causas, consecuencias y personajes clave del conflicto entre la monarquía española y los sectores populares.
+
+---
+
+# Causas del conflicto
+
+## Impuestos abusivos
+
+La nobleza y la Iglesia estaban exentas de impuestos, lo que obligaba a las clases bajas a sostener todo el sistema fiscal. Esto generó un profundo resentimiento entre los campesinos, artesanos y comerciantes.
+
+## Crisis económica
+
+La pérdida de colonias, las guerras con otras potencias europeas y la mala administración provocaron una fuerte recesión económica. El desempleo y el hambre se volvieron comunes.
+
+## Desigualdad social
+
+Mientras la aristocracia vivía en el lujo, las clases populares enfrentaban condiciones miserables. La movilidad social era casi imposible y los privilegios estaban determinados por el nacimiento.
+
+---
+
+# Consecuencias del conflicto
+
+- **Protestas populares** en diversas regiones del país.
+- **Inestabilidad política** constante con cambios de gobierno y conspiraciones.
+- **Fragmentación territorial** y surgimiento de movimientos independentistas, especialmente en América.
+
+---
+
+# Personajes clave
+
+1. **Carlos IV**: Rey débil y manipulado por su entorno.
+2. **Fernando VII**: Representó la esperanza de cambio, pero resultó autoritario.
+3. **Manuel Godoy**: Ministro favorito de Carlos IV, muy impopular.
+4. **Las Juntas**: Organismos creados para enfrentar la invasión napoleónica y organizar la resistencia.
+
+---
+
+# Enlaces útiles
+
+- [Carlos IV - Wikipedia](https://es.wikipedia.org/wiki/Carlos_IV_de_Espa%C3%B1a)
+- [Fernando VII - Biografía](https://es.wikipedia.org/wiki/Fernando_VII_de_Espa%C3%B1a)
+- [Godoy - Wikipedia](https://es.wikipedia.org/wiki/Manuel_Godoy)
+- [Historia Universal - Monarquía Española](https://historiauniversal.org/monarquia-espanola)
+- [Contexto político en España](https://es.wikipedia.org/wiki/Historia_de_Espa%C3%B1a)
+
+---
+
+# Imágenes ilustrativas
+
+A continuación, algunas imágenes clave del conflicto:
+
+### Carlos IV
+![Carlos IV](imagenes/descargar.jpeg)
+
+### Fernando VII
+![Fernando VII](imagenes/descargar%20(1).jpeg)
+
+### Mapa del conflicto
+![Mapa del conflicto](imagenes/descargar%20(2).jpeg)
+
+### Protestas populares
+![Protestas populares](imagenes/descargar%20(3).jpeg)
+
+---
+
+# Conclusión
+
+El "dolor en la corona" refleja no solo la crisis de un modelo de poder agotado, sino también el despertar de nuevas ideas sobre el gobierno, la nación y los derechos del pueblo. Esta etapa marcó el inicio del fin del absolutismo en España y el comienzo de una era de profundas transformaciones.
+=======
+>>>>>>> develop
+>>>>>>> 872b5a0f96cc32a568ec93d31396a57950264948
+>>>>>>> f900dcce1752f14137a5cfdf447e92595289f348
