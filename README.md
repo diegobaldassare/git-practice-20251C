@@ -5,6 +5,10 @@ Trabajo Práctico en Git del Taller
 1. Habemus Papam
 2. GTAVI
 3. River
+3. Ficha Limpia
+4. Colapinto F1
+
+5.India pakistan 
 
 
 # Habemus Papam
