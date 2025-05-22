@@ -9,13 +9,11 @@ Trabajo Práctico en Git del Taller
 4. Colapinto F1
 5. India vs Pak(el de verdad)
 6. depositos minerales
-<<<<<<< HEAD
 7. jero correa es gay
-=======
-
+8. Estados Unidos vs China
 5.India pakistan 
 
->>>>>>> 872b5a0f96cc32a568ec93d31396a57950264948
+
 
 
 # Habemus Papam
