@@ -4,16 +4,14 @@ Trabajo Práctico en Git del Taller
 ## Índice
 1. Habemus Papam
 2. GTAVI
+3. River
 3. Ficha Limpia
 4. Colapinto F1
-<<<<<<< HEAD
 5. India vs Pak(el de verdad)
 6. depositos minerales
-=======
 
 5.India pakistan 
 
->>>>>>> cddddad927d638134daba539f9d563ba18c5d207
 
 # Habemus Papam
 
@@ -76,6 +74,12 @@ Los nuevos personajes confirmados por Rockstar son:
 ![alt text](download.jpg)
 ## Nuevas mecánicas
 
+<<<<<<< HEAD
+# River
+El Club Atlético River Plate fue fundado el **25** de mayo de **1901** en Buenos Aires, Argentina. A lo largo de su historia, se convirtió en uno de los clubes más exitosos del país y del continente.
+
+Desde sus inicios en el barrio de La Boca hasta su traslado a Núñez, River ha construido una identidad marcada por el fútbol ofensivo, la cantera de grandes jugadores y una rivalidad histórica con Boca Juniors.
+=======
 ### Nueva IA en los NPCs
 
 - La inteligencia artificial será mucho más avanzada.
@@ -425,3 +429,4 @@ Pakistán respondió afirmando haber derribado cinco aviones de combate indios y
 4. [El País: Claves del conflicto India-Pakistán](https://elpais.com/internacional/2025-05-08/claves-la-india-y-pakistan-un-conflicto-de-raiz-colonial-con-epicentro-en-la-disputada-cachemira.html)
 5. [CNN Video: Antecedentes históricos del conflicto](https://cnnespanol.cnn.com/2025/05/07/mundo/video/antecedentes-historicos-conflicto-india-pakistan-cafe-tv)
 >>>>>>> cddddad927d638134daba539f9d563ba18c5d207
+>>>>>>> develop
