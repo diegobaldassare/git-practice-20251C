@@ -6,8 +6,14 @@ Trabajo Práctico en Git del Taller
 2. GTAVI
 3. Ficha Limpia
 4. Colapinto F1
+<<<<<<< HEAD
 5. India vs Pak(el de verdad)
 6. depositos minerales
+=======
+
+5.India pakistan 
+
+>>>>>>> cddddad927d638134daba539f9d563ba18c5d207
 
 # Habemus Papam
 
@@ -295,7 +301,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Historia de la partición](https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India)
 - [Conflictos entre India y Pakistán](https://es.wikipedia.org/wiki/Conflictos_entre_India_y_Pakist%C3%A1n)
 
-![Mapa de India y Pakistán](imagenes\capsule_616x353.jpg)
+![Mapa de India y Pakistán](capsule_616x353.jpg)
 
 ---
 
@@ -306,7 +312,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Primera Guerra de Cachemira](https://es.wikipedia.org/wiki/Primera_guerra_de_Cachemira)
 - [Guerra de Kargil](https://es.wikipedia.org/wiki/Guerra_de_Kargil)
 
-![Soldados en Cachemira](https://upload.wikimedia.org/wikipedia/commons/6/6f/Kashmir_soldiers.jpg)
+![Soldados en Cachemira](capsule_616x353.jpg)
 
 ---
 
@@ -332,6 +338,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Resoluciones de la ONU](https://es.wikipedia.org/wiki/Resoluciones_de_la_ONU_sobre_Cachemira)
 - [Noticias recientes](https://www.bbc.com/mundo)
 
+<<<<<<< HEAD
 
 # Hallaron uno de los mayores depósitos minerales del mundo entre Argentina y Chile
 # Recursos Minerales en Filo del Sol y Josemaría
@@ -359,3 +366,41 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 ![oro](https://lu17.com/download/multimedia.normal.8e6ad9702cc58c5c.bm9ybWFsLndlYnA%3D.webp)
 ![oro](https://media.ambito.com/p/c433d5965b62876960a48f79ea8e3385/adjuntos/239/imagenes/030/118/0030118038/1200x675/smart/stand-by-la-extraccion-oro-la-poderosa-mina-esta-paralizada-fines-marzo-.jpg)
 ![oro](https://www.panorama-minero.com/_next/image?url=https%3A%2F%2Fstrapi-pm.s3.us-east-1.amazonaws.com%2Fimage_3_01_f7e9a33dea.jpg&w=1920&q=75)
+=======
+# 🇮🇳🇵🇰 Escalada Bélica entre India y Pakistán: ¿Al Borde de una Guerra Nuclear?
+
+El 7 de mayo de 2025, India lanzó la "Operación Sindoor", una serie de ataques aéreos con misiles dirigidos a supuestos campamentos terroristas en Pakistán y en la región de Cachemira administrada por Pakistán.
+
+Estos ataques fueron en represalia por un atentado ocurrido el 22 de abril en Pahalgam, que dejó 28 civiles muertos, en su mayoría turistas hindúes.
+
+Pakistán respondió afirmando haber derribado cinco aviones de combate indios y varios drones. Además, lanzó ataques con drones y misiles contra ciudades indias como Amritsar, los cuales fueron interceptados por el sistema de defensa aérea S-400 de India.
+
+## 🛡️ Detalles de la "Operación Sindoor"
+- **Fecha**: 7 de mayo de 2025
+- **Duración**: 23 minutos
+- **Objetivos**: Campamentos de grupos como Jaish-e-Mohammed y Lashkar-e-Taiba
+- **Ubicaciones atacadas**: Bahawalpur, Muridke, Muzaffarabad, Kotli, entre otras
+- **Resultados según India**: Más de 100 militantes eliminados
+
+
+
+## ⚔️ Respuesta de Pakistán
+- **Derribo de aeronaves**: 5 aviones de combate indios y varios drones
+- **Ataques con drones y misiles**: Dirigidos a ciudades indias, interceptados por sistemas de defensa
+- **Declaraciones oficiales**: El Ministro de Defensa, Khawaja Asif, advirtió sobre la posibilidad de una guerra nuclear
+
+
+## 🌍 Reacciones Internacionales
+- **ONU**: Llamado urgente a la desescalada del conflicto
+- **EE.UU. y Reino Unido**: Instan a la moderación y ofrecen mediar en las negociaciones
+- **Protestas globales**: Manifestaciones en ciudades como Londres y Nueva York en contra de una posible guerra
+
+
+
+## 🔗 Enlaces de Interés
+1. [CNN en Español: Conflicto India-Pakistán](https://cnnespanol.cnn.com/mundo/live-news/noticias-india-pakistan-conflicto-2-trax)
+2. [The Guardian: Escalada en Cachemira](https://www.theguardian.com/world/live/2025/may/08/india-pakistan-kashmir-latest-live-news)
+3. [Wikipedia: Ataques de India contra Pakistán de 2025](https://es.wikipedia.org/wiki/Ataques_de_India_contra_Pakist%C3%A1n_de_2025)
+4. [El País: Claves del conflicto India-Pakistán](https://elpais.com/internacional/2025-05-08/claves-la-india-y-pakistan-un-conflicto-de-raiz-colonial-con-epicentro-en-la-disputada-cachemira.html)
+5. [CNN Video: Antecedentes históricos del conflicto](https://cnnespanol.cnn.com/2025/05/07/mundo/video/antecedentes-historicos-conflicto-india-pakistan-cafe-tv)
+>>>>>>> cddddad927d638134daba539f9d563ba18c5d207
