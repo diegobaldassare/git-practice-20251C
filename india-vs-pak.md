@@ -34,7 +34,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 
 ---
 
-## Perspectivas Futuras
+## Perspectivas Futuraas
 - **Diálogo Diplomático:** Se han realizado intentos de negociación, pero los avances son limitados.
 - **Intervención Internacional:** La comunidad global sigue monitoreando la situación.
 
