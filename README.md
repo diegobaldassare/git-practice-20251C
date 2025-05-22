@@ -6,6 +6,7 @@ Trabajo Práctico en Git del Taller
 2. GTAVI
 3. Ficha Limpia
 4. Colapinto F1
+5. India vs Pak(el de verdad)
 
 
 # Habemus Papam
@@ -285,6 +286,8 @@ Si querés leer mas sobre Colapinto y su futuro en la F1, aca hay noticias de ot
 
 [Ambito](https://www.ambito.com/deportes/flavio-briatore-explico-la-decision-alpine-del-regreso-franco-colapinto-la-formula-1-n6142352)
 
+<<<<<<< HEAD
+
 # Estados Unidos y China buscan rebajar tensiones comerciales en su primer cara a cara en Suiza
 
 ## Beijing ha sidio uno de los grandes objetivos de la guerra comercial, en la que el régimen chino respondió a los aranceles de Trump con una tarifa del 125 %
@@ -309,3 +312,51 @@ Si querés leer mas sobre Colapinto y su futuro en la F1, aca hay noticias de ot
 ### Según un artículo de la Oficina del Representante Comercial de Estados Unidos (USTR), "más del 30 % de todos los envíos diarios de minimis a Estados Unidos provinieron de empresas chinas de comercio electrónico que inundaron el mercado con prendas de bajo costo, evitando aranceles y procedimientos de cumplimiento comercial".
 
 - [El Cronista](https://www.cronista.com/usa/economia-y-finanzas/tiembla-estados-unidos-el-poderoso-sector-que-se-encuentra-en-crisis-por-la-guerra-comercial-con-china/)
+=======
+
+# Tensión entre India y Pakistán
+
+## Contexto Histórico
+La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a la partición de 1947. Ambos países han tenido conflictos recurrentes, incluyendo guerras y enfrentamientos fronterizos.
+
+- [Historia de la partición](https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India)
+- [Conflictos entre India y Pakistán](https://es.wikipedia.org/wiki/Conflictos_entre_India_y_Pakist%C3%A1n)
+
+![Mapa de India y Pakistán](imagenes\capsule_616x353.jpg)
+
+---
+
+## Principales Conflictos
+1. **Primera Guerra de Cachemira (1947-1948):** Un conflicto armado por el control de la región de Cachemira.
+2. **Guerra de Kargil (1999):** Un enfrentamiento en la región montañosa de Kargil.
+
+- [Primera Guerra de Cachemira](https://es.wikipedia.org/wiki/Primera_guerra_de_Cachemira)
+- [Guerra de Kargil](https://es.wikipedia.org/wiki/Guerra_de_Kargil)
+
+![Soldados en Cachemira](https://upload.wikimedia.org/wikipedia/commons/6/6f/Kashmir_soldiers.jpg)
+
+---
+
+## Impacto en la Región
+### Consecuencias Humanitarias
+- Miles de desplazados debido a los conflictos.
+- Pérdidas económicas y sociales significativas.
+
+### Tensiones Políticas
+- Ambos países poseen armas nucleares, lo que aumenta el riesgo de un conflicto mayor.
+- [Relaciones India-Pakistán](https://es.wikipedia.org/wiki/Relaciones_India-Pakist%C3%A1n)
+
+![Protestas en Cachemira](https://upload.wikimedia.org/wikipedia/commons/4/4e/Kashmir_protests.jpg)
+
+---
+
+## Perspectivas Futuraas
+- **Diálogo Diplomático:** Se han realizado intentos de negociación, pero los avances son limitados.
+- **Intervención Internacional:** La comunidad global sigue monitoreando la situación.
+
+![Bandera de la ONU](https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.png)
+
+- [Resoluciones de la ONU](https://es.wikipedia.org/wiki/Resoluciones_de_la_ONU_sobre_Cachemira)
+- [Noticias recientes](https://www.bbc.com/mundo)
+
+>>>>>>> 8322eb4d4d127b530b3410a0f4060b25cb69e491
