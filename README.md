@@ -4,6 +4,7 @@ Trabajo Práctico en Git del Taller
 ## Índice
 1. Habemus Papam
 2. GTAVI
+3. River
 
 
 # Habemus Papam
@@ -65,3 +66,8 @@ Los personajes nuevos que aparecen son:
     *Jason Duval: Rockstar señala  que "quiere una vida fácil, pero las cosas no hacen más que complicarse". "Conocer a Lucia podría ser lo mejor o lo peor que le haya pasado. Jason tiene claro cómo le gustaría que acabara la historia, pero ahora mismo es difícil saberlo".
 
 ![alt text](download.jpg)
+
+# River
+El Club Atlético River Plate fue fundado el **25** de mayo de **1901** en Buenos Aires, Argentina. A lo largo de su historia, se convirtió en uno de los clubes más exitosos del país y del continente.
+
+Desde sus inicios en el barrio de La Boca hasta su traslado a Núñez, River ha construido una identidad marcada por el fútbol ofensivo, la cantera de grandes jugadores y una rivalidad histórica con Boca Juniors.
