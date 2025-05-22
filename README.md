@@ -6,7 +6,9 @@ Trabajo Práctico en Git del Taller
 2. GTAVI
 3. Ficha Limpia
 4. Colapinto F1
+
 5.India pakistan 
+
 
 # Habemus Papam
 
@@ -294,7 +296,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Historia de la partición](https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India)
 - [Conflictos entre India y Pakistán](https://es.wikipedia.org/wiki/Conflictos_entre_India_y_Pakist%C3%A1n)
 
-![Mapa de India y Pakistán](imagenes\capsule_616x353.jpg)
+![Mapa de India y Pakistán](capsule_616x353.jpg)
 
 ---
 
@@ -305,7 +307,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Primera Guerra de Cachemira](https://es.wikipedia.org/wiki/Primera_guerra_de_Cachemira)
 - [Guerra de Kargil](https://es.wikipedia.org/wiki/Guerra_de_Kargil)
 
-![Soldados en Cachemira](https://upload.wikimedia.org/wikipedia/commons/6/6f/Kashmir_soldiers.jpg)
+![Soldados en Cachemira](capsule_616x353.jpg)
 
 ---
 
