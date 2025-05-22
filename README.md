@@ -4,11 +4,18 @@ Trabajo Práctico en Git del Taller
 ## Índice
 1. Habemus Papam
 2. GTAVI
+3. River
 3. Ficha Limpia
 4. Colapinto F1
 5. India vs Pak(el de verdad)
 6. depositos minerales
+<<<<<<< HEAD
 7. jero correa es gay
+=======
+
+5.India pakistan 
+
+>>>>>>> 872b5a0f96cc32a568ec93d31396a57950264948
 
 # Habemus Papam
 
@@ -71,6 +78,12 @@ Los nuevos personajes confirmados por Rockstar son:
 ![alt text](download.jpg)
 ## Nuevas mecánicas
 
+<<<<<<< HEAD
+# River
+El Club Atlético River Plate fue fundado el **25** de mayo de **1901** en Buenos Aires, Argentina. A lo largo de su historia, se convirtió en uno de los clubes más exitosos del país y del continente.
+
+Desde sus inicios en el barrio de La Boca hasta su traslado a Núñez, River ha construido una identidad marcada por el fútbol ofensivo, la cantera de grandes jugadores y una rivalidad histórica con Boca Juniors.
+=======
 ### Nueva IA en los NPCs
 
 - La inteligencia artificial será mucho más avanzada.
@@ -420,6 +433,7 @@ Pakistán respondió afirmando haber derribado cinco aviones de combate indios y
 4. [El País: Claves del conflicto India-Pakistán](https://elpais.com/internacional/2025-05-08/claves-la-india-y-pakistan-un-conflicto-de-raiz-colonial-con-epicentro-en-la-disputada-cachemira.html)
 5. [CNN Video: Antecedentes históricos del conflicto](https://cnnespanol.cnn.com/2025/05/07/mundo/video/antecedentes-historicos-conflicto-india-pakistan-cafe-tv)
 >>>>>>> cddddad927d638134daba539f9d563ba18c5d207
+<<<<<<< HEAD
 
 # Dolor en la corona española
 
@@ -493,3 +507,6 @@ A continuación, algunas imágenes clave del conflicto:
 # Conclusión
 
 El "dolor en la corona" refleja no solo la crisis de un modelo de poder agotado, sino también el despertar de nuevas ideas sobre el gobierno, la nación y los derechos del pueblo. Esta etapa marcó el inicio del fin del absolutismo en España y el comienzo de una era de profundas transformaciones.
+=======
+>>>>>>> develop
+>>>>>>> 872b5a0f96cc32a568ec93d31396a57950264948
