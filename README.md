@@ -11,7 +11,7 @@ Trabajo Práctico en Git del Taller
 7. India vs Pakistan
 8. depositos minerales
 9. Guerra nuclear India Pakistan
-10. Jero correa
+10. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob)
 11. New York Knicks vs. Boston Celtics
 
 
@@ -463,8 +463,7 @@ Pakistán respondió afirmando haber derribado cinco aviones de combate indios y
 3. [Wikipedia: Ataques de India contra Pakistán de 2025](https://es.wikipedia.org/wiki/Ataques_de_India_contra_Pakist%C3%A1n_de_2025)
 4. [El País: Claves del conflicto India-Pakistán](https://elpais.com/internacional/2025-05-08/claves-la-india-y-pakistan-un-conflicto-de-raiz-colonial-con-epicentro-en-la-disputada-cachemira.html)
 5. [CNN Video: Antecedentes históricos del conflicto](https://cnnespanol.cnn.com/2025/05/07/mundo/video/antecedentes-historicos-conflicto-india-pakistan-cafe-tv)
->>>>>>> cddddad927d638134daba539f9d563ba18c5d207
-<<<<<<< HEAD
+
 
 # Dolor en la corona española
 
