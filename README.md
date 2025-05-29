@@ -7,11 +7,11 @@ Trabajo Práctico en Git del Taller
 3. River
 4. Ficha Limpia
 5. Colapinto F1
-6. India vs Pakistan
-7. depositos minerales
-8. Guerra nuclear India Pakistan
-9. Jero correa
-10. Estados Unidos vs China
+6.Estados unidos vs China
+7. India vs Pakistan
+8. depositos minerales
+9. Guerra nuclear India Pakistan
+10. Jero correa
 11. New York Knicks vs. Boston Celtics
 
 
