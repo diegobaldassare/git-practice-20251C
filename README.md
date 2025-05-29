@@ -7,11 +7,11 @@ Trabajo Práctico en Git del Taller
 3. River
 4. Ficha Limpia
 5. Colapinto F1
-6.Estados unidos vs China
+6. Estados unidos vs China
 7. India vs Pakistan
 8. depositos minerales
-9. Guerra nuclear India Pakistan
-10. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob)
+9. Guerra nuclear India Pakistan 
+10. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob/develop/README.md#dolor-en-la-corona-española)
 11. New York Knicks vs. Boston Celtics
 
 
