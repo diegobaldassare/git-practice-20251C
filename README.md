@@ -5,13 +5,14 @@ Trabajo Práctico en Git del Taller
 1. Habemus Papam
 2. GTAVI
 3. River
-3. Ficha Limpia
-4. Colapinto F1
-5. India vs Pakistan
-6. depositos minerales
-7. Jero correa
-8. Estados Unidos vs China
-9. New York Knicks vs. Boston Celtics
+4. Ficha Limpia
+5. Colapinto F1
+6.Estados unidos vs China
+7. India vs Pakistan
+8. depositos minerales
+9. Guerra nuclear India Pakistan
+10. Jero correa
+11. New York Knicks vs. Boston Celtics
 
 
 
