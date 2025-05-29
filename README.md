@@ -11,7 +11,7 @@ Trabajo Práctico en Git del Taller
 7. India vs Pakistan
 8. depositos minerales
 9. Guerra nuclear India Pakistan
-10. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob)
+10. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob) 
 11. New York Knicks vs. Boston Celtics
 
 
