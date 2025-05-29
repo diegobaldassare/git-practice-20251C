@@ -35,4 +35,4 @@ On the other hand, Celtics fans were left frustrated and disheartened. After los
 
 ![Tatum](/Assets/Tatum.jpg "Tatum")
 
-The series now shifts to Madison Square Garden in New York for Game 3, where the Knicks will look to extend their series lead. With the Celtics needing to bounce back quickly, the pressure will be on them to regroup and avoid falling into a 3–0 hole. The Knicks’ fans are buzzing with excitement, as their team appears to be in prime position to take control of the series.
+The series now shifts to Madison Square Garden in New York for Game 5, where the Knicks will look to extend their series lead. With the Celtics needing to bounce back quickly, the pressure will be on them to regroup and avoid falling into a 3–0 hole. The Knicks’ fans are buzzing with excitement, as their team appears to be in prime position to take control of the series.
