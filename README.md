@@ -322,7 +322,7 @@ Si querés leer mas sobre Colapinto y su futuro en la F1, aca hay noticias de ot
 
 [Ambito](https://www.ambito.com/deportes/flavio-briatore-explico-la-decision-alpine-del-regreso-franco-colapinto-la-formula-1-n6142352)
 
-<<<<<<< HEAD
+
 
 # Estados Unidos y China buscan rebajar tensiones comerciales en su primer cara a cara en Suiza
 
@@ -348,7 +348,7 @@ Si querés leer mas sobre Colapinto y su futuro en la F1, aca hay noticias de ot
 ### Según un artículo de la Oficina del Representante Comercial de Estados Unidos (USTR), "más del 30 % de todos los envíos diarios de minimis a Estados Unidos provinieron de empresas chinas de comercio electrónico que inundaron el mercado con prendas de bajo costo, evitando aranceles y procedimientos de cumplimiento comercial".
 
 - [El Cronista](https://www.cronista.com/usa/economia-y-finanzas/tiembla-estados-unidos-el-poderoso-sector-que-se-encuentra-en-crisis-por-la-guerra-comercial-con-china/)
-=======
+
 
 # Tensión entre India y Pakistán
 
