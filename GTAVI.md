@@ -2,28 +2,45 @@
 
 ![alt text](500_333.jpg)
 
-## Analisis del 2do Trailer
+## Análisis del 2do Trailer
 
-En tan solo 7 horas, el trailer del Grand Theft Auto VI (GTA VI) tuvo 29 millones de reproducciones en YouTube. Un número que lo explica todo: el próximo videojuego de la compañía Rockstar es el que más expectativas genera en el mundo gamer.
+En tan solo 7 horas, el tráiler del Grand Theft Auto VI (GTA VI) alcanzó 29 millones de reproducciones en YouTube. Un número que lo dice todo: el próximo videojuego de Rockstar Games es uno de los más esperados en el mundo gamer.
 
-El adelanto ahora revela pormenores de la relación entre el dúo protagónico, que será una especie de Bonnie and Clyde modernos. Pero también un detalle que sorprendió refleja todo el poderío visual que tendrá la nueva entrega y que sorprendió a los fans.
+El adelanto revela detalles de la relación entre el dúo protagónico, una especie de Bonnie and Clyde modernos. Además, sorprende el nivel visual que tendrá esta nueva entrega.
 
+## Gráficos mejorados
 
-## Graficos mejorados
+El nuevo tráiler muestra los impresionantes gráficos del juego y detalla parte de la trama principal. Se observa lo realista que es el motor gráfico del nuevo GTA.
 
-El nuevo trailer muestra los impresionantes gráficos que tendrá al mismo tiempo que revela detalles sobre la trama principal. Podemos observar en el trailer que tan bueno es el motor grafico del nuevo Grand Theft Auto 
-
-En una parte del adelanto, si uno observa detenidamente los objetos que hay sobre una mesa y acerca la pantalla verá con lujo de detalles las burbujitas de una botella de cerveza. Esto da cuenta de que Rockstar no dejará pasar nada por alto.
-
+Por ejemplo, en una escena se pueden ver burbujas dentro de una botella de cerveza sobre una mesa, lo que refleja el nivel de detalle que Rockstar está implementando.
 
 ## Nuevos personajes
 
-Los personajes nuevos que aparecen son:
-    *Lucia Caminos: Rockstar señala que está “recién salida de prisión y lista para cambiar las tornas a su favor”, así como también “decidida a cumplir su plan cueste lo que cueste"
+Los nuevos personajes confirmados por Rockstar son:
 
-    *Jason Duval: Rockstar señala  que "quiere una vida fácil, pero las cosas no hacen más que complicarse". "Conocer a Lucia podría ser lo mejor o lo peor que le haya pasado. Jason tiene claro cómo le gustaría que acabara la historia, pero ahora mismo es difícil saberlo".
+- **Lucía Caminos**: “Recién salida de prisión y lista para cambiar las tornas a su favor. Está decidida a cumplir su plan cueste lo que cueste.”
+  
+- **Jason Duval**: “Quiere una vida fácil, pero todo se complica. Conocer a Lucía podría ser lo mejor o lo peor que le haya pasado.”
 
 ![alt text](download.jpg)
+## Nuevas mecánicas
 
-## Nuevas mecanicas
+### Nueva IA en los NPCs
 
+- La inteligencia artificial será mucho más avanzada.
+- Los NPCs reaccionarán de forma realista al entorno y entre sí.
+- Se espera una simulación social más compleja: ciudadanos con celulares, rutinas diarias, etc.
+
+### Nuevo mapa
+
+El mapa estará ambientado en Vice City (una versión de Miami), con zonas rurales, pantanos, y un ecosistema vivo y cambiante.
+
+![alt text](gta_vi_map_4k_by_pavlo445_dgjqh91-fullview.jpg)
+
+## Enlaces útiles
+
+- [Tráiler oficial en YouTube](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+- [Sitio oficial de Rockstar Games](https://www.rockstargames.com)
+- [Noticias sobre GTA VI en IGN](https://www.ign.com/games/grand-theft-auto-vi)
+- [Foro de discusión en Reddit](https://www.reddit.com/r/GTA6/)
+- [Resumen en Wikipedia](https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI)
