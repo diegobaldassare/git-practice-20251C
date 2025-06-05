@@ -370,7 +370,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Primera Guerra de Cachemira](https://es.wikipedia.org/wiki/Primera_guerra_de_Cachemira)
 - [Guerra de Kargil](https://es.wikipedia.org/wiki/Guerra_de_Kargil)
 
-![Soldados en Cachemira](capsule_616x353.jpg)
+![Soldados en Cachemira](Assets\UIJG52XB3QWG43ZUWCCEZMNMRY.jpg)
 
 ---
 
@@ -383,7 +383,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - Ambos países poseen armas nucleares, lo que aumenta el riesgo de un conflicto mayor.
 - [Relaciones India-Pakistán](https://es.wikipedia.org/wiki/Relaciones_India-Pakist%C3%A1n)
 
-![Protestas en Cachemira](https://upload.wikimedia.org/wikipedia/commons/4/4e/Kashmir_protests.jpg)
+![Protestas en Cachemira](Assets\_105825110_mediaitem105819112.jpg)
 
 ---
 
