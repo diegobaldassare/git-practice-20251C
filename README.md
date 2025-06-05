@@ -359,7 +359,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Historia de la partición](https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India)
 - [Conflictos entre India y Pakistán](https://es.wikipedia.org/wiki/Conflictos_entre_India_y_Pakist%C3%A1n)
 
-![Mapa de India y Pakistán](capsule_616x353.jpg)
+![Mapa de India y Pakistán](/Assets\Asia-Pacífico-India-Pakístán-Bangladés-Geopolítica-Conflictos-Seguridad-Historia-Geopolítica-del-subcontinente-indio.png)
 
 ---
 
