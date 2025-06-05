@@ -359,9 +359,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Historia de la partición](https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India)
 - [Conflictos entre India y Pakistán](https://es.wikipedia.org/wiki/Conflictos_entre_India_y_Pakist%C3%A1n)
 
-![Mapa de India y Pakistán](/Assets\Asia-Pacífico-India-Pakístán-Bangladés-Geopolítica-Conflictos-Seguridad-Historia-Geopolítica-del-subcontinente-indio.png)
-
----
+![Mapa de India y Pakistán](Asia-Pacífico-India-Pakístán-Bangladés-Geopolítica-Conflictos-Seguridad-Historia-Geopolítica-del-subcontinente-indio.png)
 
 ## Principales Conflictos
 1. **Primera Guerra de Cachemira (1947-1948):** Un conflicto armado por el control de la región de Cachemira.
@@ -370,7 +368,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Primera Guerra de Cachemira](https://es.wikipedia.org/wiki/Primera_guerra_de_Cachemira)
 - [Guerra de Kargil](https://es.wikipedia.org/wiki/Guerra_de_Kargil)
 
-![Soldados en Cachemira](Assets\UIJG52XB3QWG43ZUWCCEZMNMRY.jpg)
+![Soldados en Cachemira](UIJG52XB3QWG43ZUWCCEZMNMRY.jpg)
 
 ---
 
@@ -383,23 +381,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - Ambos países poseen armas nucleares, lo que aumenta el riesgo de un conflicto mayor.
 - [Relaciones India-Pakistán](https://es.wikipedia.org/wiki/Relaciones_India-Pakist%C3%A1n)
 
-![Protestas en Cachemira](Assets\_105825110_mediaitem105819112.jpg)
-
----
-
-## Perspectivas Futuraas
-- **Diálogo Diplomático:** Se han realizado intentos de negociación, pero los avances son limitados.
-- **Intervención Internacional:** La comunidad global sigue monitoreando la situación.
-
-![Bandera de la ONU](https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.png)
-
-- [Resoluciones de la ONU](https://es.wikipedia.org/wiki/Resoluciones_de_la_ONU_sobre_Cachemira)
-- [Noticias recientes](https://www.bbc.com/mundo)
-
-<<<<<<< HEAD
->>>>>>> 8322eb4d4d127b530b3410a0f4060b25cb69e491
-=======
-<<<<<<< HEAD
+![Protestas en Cachemira](_105825110_mediaitem105819112.jpg)
 
 # Hallaron uno de los mayores depósitos minerales del mundo entre Argentina y Chile
 # Recursos Minerales en Filo del Sol y Josemaría
