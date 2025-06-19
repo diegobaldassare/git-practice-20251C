@@ -1,6 +1,6 @@
 # Barcelona vs Inter de Milán – Semifinal UEFA Champions League 2025
 
-La semifinal entre FC Barcelona e Inter de Milán fue una de las más emocionantes de la temporada 2024/25, dejando momentos históricos, goles espectaculares y actuaciones individuales memorables.
+Las semifinales entre FC Barcelona e Inter de Milán fue una de las más emocionantes de la temporada 2024/25, dejando momentos históricos, goles espectaculares y actuaciones individuales memorables.
 
 ![Lamine Yamal celebrando](17255296903852.webp)
 ![Gol de Fratessi](23e7a379-53b1-440f-b7bf-3d95f6560821.avif)
