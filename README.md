@@ -2,6 +2,19 @@
 Trabajo Práctico en Git del Taller
 
 ## Índice
+1. Mision Psyche de la Nasa
+2. Habemus Papam
+3. GTAVI
+4. River
+5. Ficha Limpia
+6. Colapinto F1
+7. Estados unidos vs China
+8. India vs Pakistan
+9. depositos minerales
+10. Guerra nuclear India Pakistan
+11. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob) 
+12. New York Knicks vs. Boston Celtics
+=======
 1. Habemus Papam
 2. GTAVI
 3. River
@@ -16,6 +29,49 @@ Trabajo Práctico en Git del Taller
 12. Barca vs Inter
 
 
+## Misión Psyche de la NASA
+
+La NASA ha iniciado una nueva misión espacial con destino al asteroide **Psyche**, un cuerpo celeste único compuesto mayoritariamente de metal. El objetivo: estudiar sus características y entender más sobre los núcleos planetarios.
+
+Psyche podría ser el corazón de un planeta fallido, lo que ofrecería una oportunidad sin precedentes para conocer los orígenes del sistema solar.
+
+---
+
+### ¿Por qué es tan importante Psyche?
+
+El asteroide Psyche se encuentra a más de 370 millones de kilómetros de la Tierra y está compuesto principalmente por **hierro y níquel**, similares al núcleo terrestre.
+
+Esta misión representa la **primera vez que se estudiará un objeto metálico de esta magnitud**. A diferencia de otros asteroides rocosos o helados, Psyche podría contener claves sobre los procesos de formación planetaria.
+
+---
+
+### Tecnología de la nave
+
+La nave cuenta con tecnología de punta:
+
+- **Propulsión iónica**, que le permite viajar grandes distancias usando menos combustible.
+- **Instrumentos para análisis magnético**, que ayudarán a detectar si el asteroide alguna vez tuvo campo magnético.
+- **Espectrómetros**, para analizar la composición de la superficie metálica.
+
+![Representación artística de la nave](assets/nave-psyche.jpg)
+
+---
+
+### Curiosidades sobre la misión
+
+- El viaje tardará alrededor de **6 años**: la nave llegará a Psyche recién en **2029**.
+- El asteroide mide **226 km de ancho**, más grande que algunas provincias argentinas.
+- Psyche fue descubierto en **1852**, pero nunca había sido explorado de cerca.
+
+---
+
+### Enlaces para saber más
+
+- [Sitio oficial de la misión Psyche (NASA)](https://www.nasa.gov/psyche)
+- [Artículo en National Geographic](https://www.nationalgeographic.com/space/article/nasa-psyche-mission)
+- [Explicación en español de la misión Psyche (BBC)](https://www.bbc.com/mundo/articles/cn99l3dggvpo)
+- [Video explicativo de la misión](https://www.youtube.com/watch?v=jaiz3rZIe3I)
+- [Detalles técnicos del asteroide](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/asteroids/psyche/overview/)
 
 
 
@@ -80,7 +136,7 @@ Los nuevos personajes confirmados por Rockstar son:
 ![alt text](download.jpg)
 ## Nuevas mecánicas
 
-<<<<<<< HEAD
+
 # River
 El Club Atlético River Plate fue fundado el **25** de mayo de **1901** en Buenos Aires, Argentina. A lo largo de su historia, se convirtió en uno de los clubes más exitosos del país y del continente.
 
