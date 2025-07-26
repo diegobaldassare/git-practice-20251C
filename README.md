@@ -14,6 +14,19 @@ Trabajo Práctico en Git del Taller
 10. Guerra nuclear India Pakistan
 11. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob) 
 12. New York Knicks vs. Boston Celtics
+=======
+1. Habemus Papam
+2. GTAVI
+3. River
+4. Ficha Limpia
+5. Colapinto F1
+6. Estados unidos vs China
+7. India vs Pakistan
+8. depositos minerales
+9. Guerra nuclear India Pakistan 
+10. [Dolor de la cororna española](https://github.com/diegobaldassare/git-practice-20251C/blob/develop/README.md#dolor-en-la-corona-española)
+11. New York Knicks vs. Boston Celtics
+12. Barca vs Inter
 
 
 ## Misión Psyche de la NASA
@@ -123,7 +136,7 @@ Los nuevos personajes confirmados por Rockstar son:
 ![alt text](download.jpg)
 ## Nuevas mecánicas
 
-<<<<<<< HEAD
+
 # River
 El Club Atlético River Plate fue fundado el **25** de mayo de **1901** en Buenos Aires, Argentina. A lo largo de su historia, se convirtió en uno de los clubes más exitosos del país y del continente.
 
@@ -402,9 +415,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Historia de la partición](https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India)
 - [Conflictos entre India y Pakistán](https://es.wikipedia.org/wiki/Conflictos_entre_India_y_Pakist%C3%A1n)
 
-![Mapa de India y Pakistán](capsule_616x353.jpg)
-
----
+![Mapa de India y Pakistán](Asia-Pacífico-India-Pakístán-Bangladés-Geopolítica-Conflictos-Seguridad-Historia-Geopolítica-del-subcontinente-indio.png)
 
 ## Principales Conflictos
 1. **Primera Guerra de Cachemira (1947-1948):** Un conflicto armado por el control de la región de Cachemira.
@@ -413,7 +424,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - [Primera Guerra de Cachemira](https://es.wikipedia.org/wiki/Primera_guerra_de_Cachemira)
 - [Guerra de Kargil](https://es.wikipedia.org/wiki/Guerra_de_Kargil)
 
-![Soldados en Cachemira](capsule_616x353.jpg)
+![Soldados en Cachemira](UIJG52XB3QWG43ZUWCCEZMNMRY.jpg)
 
 ---
 
@@ -426,23 +437,7 @@ La rivalidad entre India y Pakistán tiene raíces profundas que se remontan a l
 - Ambos países poseen armas nucleares, lo que aumenta el riesgo de un conflicto mayor.
 - [Relaciones India-Pakistán](https://es.wikipedia.org/wiki/Relaciones_India-Pakist%C3%A1n)
 
-![Protestas en Cachemira](https://upload.wikimedia.org/wikipedia/commons/4/4e/Kashmir_protests.jpg)
-
----
-
-## Perspectivas Futuraas
-- **Diálogo Diplomático:** Se han realizado intentos de negociación, pero los avances son limitados.
-- **Intervención Internacional:** La comunidad global sigue monitoreando la situación.
-
-![Bandera de la ONU](https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.png)
-
-- [Resoluciones de la ONU](https://es.wikipedia.org/wiki/Resoluciones_de_la_ONU_sobre_Cachemira)
-- [Noticias recientes](https://www.bbc.com/mundo)
-
-<<<<<<< HEAD
->>>>>>> 8322eb4d4d127b530b3410a0f4060b25cb69e491
-=======
-<<<<<<< HEAD
+![Protestas en Cachemira](_105825110_mediaitem105819112.jpg)
 
 # Hallaron uno de los mayores depósitos minerales del mundo entre Argentina y Chile
 # Recursos Minerales en Filo del Sol y Josemaría
@@ -623,3 +618,62 @@ On the other hand, Celtics fans were left frustrated and disheartened. After los
 
 The series now shifts to Madison Square Garden in New York for Game 5, where the Knicks will look to extend their series lead. With the Celtics needing to bounce back quickly, the pressure will be on them to regroup and avoid falling into a 3–0 hole. The Knicks’ fans are buzzing with excitement, as their team appears to be in prime position to take control of the series.
 
+##
+
+# Barcelona vs Inter de Milán – Semifinal UEFA Champions League 2025
+
+Las semifinales entre FC Barcelona e Inter de Milán fue una de las más emocionantes de la temporada 2024/25, dejando momentos históricos, goles espectaculares y actuaciones individuales memorables.
+
+![Lamine Yamal celebrando](17255296903852.webp)
+![Gol de Fratessi](23e7a379-53b1-440f-b7bf-3d95f6560821.avif)
+
+# Partido de Ida: Montjuïc
+
+El primer encuentro terminó 3-3 en un duelo vibrante:
+
+- Goles de Yamal, Ferran y Raphinha para el Barça.
+- Lautaro, Barella y Calhanoglu anotaron para el Inter.
+
+**Momentos destacados:**
+- Lamine Yamal marcó un golazo y asistió en otro.
+- El Barça dominó la posesión pero no pudo cerrar el partido.
+
+Lista de incidencias importantes:
+1. Gol de Yamal a los 18 minutos.
+2. Inter empató en el 91'.
+
+[Resumen oficial del partido](https://www.uefa.com/uefachampionsleague/news/028d-123456789abc/)
+[Crónica en Marca](https://www.marca.com/futbol/champions-league/barcelona-vs-inter.html)
+
+# Partido de Vuelta: San Siro
+
+En la vuelta, el Inter se impuso 4-3 tras prórroga y se metió en la final con un global de 7-6.
+
+- Francesco Acerbi empató en el último minuto.
+- Davide Frattesi marcó el gol definitivo en tiempo extra.
+
+![Acerbi tras su gol](acerbi.jpg_1528495089.webp)
+![Inter celebra la clasificacion](download-1.jpg)
+
+Lista de claves del partido:
+- Remontada del Inter tras ir 2 goles abajo.
+- La defensa del Barça colapsó en el alargue.
+
+[Crónica de AS](https://as.com/futbol/champions/inter-barcelona-vuelta/)
+[Análisis táctico de Mundo Deportivo](https://www.mundodeportivo.com/inter-barcelona-analisis.html)
+
+# Figura del cruce: Lamine Yamal
+
+A sus 17 años, el joven español fue la gran figura:
+
+- 1 gol, 1 asistencia y 2 tiros al travesaño en la ida.
+- Rompió el récord de jugador más joven en marcar en semifinales de Champions.
+
+![Yamal en accion](download-2.jpg)
+
+[Perfil de Yamal en UEFA](https://www.uefa.com/uefachampionsleague/clubs/players/2603938/)
+[Opinión de Zidane sobre Yamal](https://www.lequipe.fr/football/lamine-yamal-zidane-declaraciones.html)
+
+# Conclusión
+
+El FC Barcelona mostró gran nivel ofensivo, pero no logró sostener la ventaja. El Inter, con experiencia y contundencia, dio el golpe y se metió en la gran final.
